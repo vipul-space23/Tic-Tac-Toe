@@ -27,3 +27,6 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 
 ##Screenshots :
 ![image](https://github.com/user-attachments/assets/189c7090-4b99-4d19-9a77-fed2554de0ff)
+![image](https://github.com/user-attachments/assets/1cf10ccc-fde1-4817-a1ac-99d236410324)
+![image](https://github.com/user-attachments/assets/68b40aaa-a291-49ce-a58d-e7b0e017dbfa)
+
